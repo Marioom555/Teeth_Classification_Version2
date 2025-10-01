@@ -1,5 +1,5 @@
 
-# 🦷 Teeth Classification using Transfer Learning + Gradio Deployment
+# 🦷 Teeth Classification Vesrion2
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.1+-red.svg)](https://pytorch.org/)
@@ -89,6 +89,8 @@ To share a public link, edit the last line in `gradio_app.py`:
 iface.launch(server_name="0.0.0.0", server_port=7860, share=True)
 ```
 
+👨‍💻 Author
 
+Developed by  Eng\ Mariam Ashraf 
 
 
