@@ -9,7 +9,9 @@ It includes preprocessing, augmentation, training, evaluation, single-image infe
 
 ---
 <img width="1351" height="629" alt="Image" src="https://github.com/user-attachments/assets/0c7880a1-0fa0-48c2-87f8-41d4c51875f0" />
-<img width="1351" height="629" alt="Image" src="https://github.com/user-attachments/assets/0c7880a1-0fa0-48c2-87f8-41d4c51875f0" />
+<img width="1351" height="627" alt="Image" src="https://github.com/user-attachments/assets/4e3e8517-8ba9-4b15-97f3-2f541efb5104" />
+
+
 ## 📂 Project Structure
 ```
 src/
