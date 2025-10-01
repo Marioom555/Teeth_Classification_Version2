@@ -3,9 +3,8 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.1+-red.svg)](https://pytorch.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-This project implements a **teeth classification pipeline** using **transfer learning** on dental X-ray images.  
+This project implements a **teeth classification pipeline** using **transfer learning** on dental diseases images.  
 It includes preprocessing, augmentation, training, evaluation, single-image inference, and a **Gradio web app** for deployment.
 
 ---
@@ -104,5 +103,3 @@ python src/train.py --model convnext_base
 
 ---
 
-## 📜 License
-MIT License. See [LICENSE](LICENSE) for details.
