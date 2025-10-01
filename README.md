@@ -92,14 +92,6 @@ To share a public link, edit the last line in `gradio_app.py`:
 iface.launch(server_name="0.0.0.0", server_port=7860, share=True)
 ```
 
----
 
-## 🧠 Model Choice
-By default, the project uses **EfficientNet-B4** (`tf_efficientnet_b4_ns`) from `timm`.  
-You can try others:
-```bash
-python src/train.py --model convnext_base
-```
 
----
 
