@@ -8,7 +8,8 @@ This project implements a **teeth classification pipeline** using **transfer lea
 It includes preprocessing, augmentation, training, evaluation, single-image inference, and a **Gradio web app** for deployment.
 
 ---
-
+<img width="1351" height="629" alt="Image" src="https://github.com/user-attachments/assets/0c7880a1-0fa0-48c2-87f8-41d4c51875f0" />
+<img width="1351" height="629" alt="Image" src="https://github.com/user-attachments/assets/0c7880a1-0fa0-48c2-87f8-41d4c51875f0" />
 ## 📂 Project Structure
 ```
 src/
